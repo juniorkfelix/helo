@@ -1,0 +1,22 @@
+
+
+
+ -----------------------------------------------------------------------------
+NAME: 					ewff 
+ID NUMBER: 				adff 
+REGISTRATION CENTER: 	dxcx 
+ POLLING STATION: 		xxxx 
+ASSEMBLY WARD: 			xxxxx 
+CONSTITUENCY: 			xxxxx 
+COUNTY: 				xxxxx 
+
+
+
+ -----------------------------------------------------------------------------
+NAME: 					kinaro 
+ID NUMBER: 				123456 
+REGISTRATION CENTER: 	mirugi 
+ POLLING STATION: 		mirugi 
+ASSEMBLY WARD: 			wsdxy 
+CONSTITUENCY: 			bbunkjn 
+COUNTY: 				bkjnjknjkn 
